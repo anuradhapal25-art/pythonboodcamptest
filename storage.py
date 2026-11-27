@@ -19,3 +19,5 @@ def load_expenses():
     except FileNotFoundError:
         return []
     return expenses
+
+
